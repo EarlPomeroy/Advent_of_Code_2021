@@ -1,5 +1,5 @@
-pub mod day4;
-use day4::day4::{puzzle1, puzzle2};
+pub mod day5;
+use day5::day5::{puzzle1, puzzle2};
 // use d1_p1::puzzle;
 
 fn main() {
